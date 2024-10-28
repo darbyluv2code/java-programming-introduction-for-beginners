@@ -2,7 +2,7 @@
 
 Source code for the course: [*Java Programming Introduction for Beginners*](https://www.luv2code.com/java-intro-github)
 
-If you have questions or need tech support, post your questions to the classroom discussion forum
+If you have questions or need tech support, post your questions to the [classroom discussion forum](https://www.luv2code.com/java-intro-github).
 
 Happy coding!
 
