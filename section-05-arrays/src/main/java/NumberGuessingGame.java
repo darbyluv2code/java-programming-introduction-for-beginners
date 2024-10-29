@@ -33,7 +33,7 @@ public class NumberGuessingGame {
             won = (theGuess == secretNumber);
 
             if (won) {
-                System.out.println("Success!! You guess the secret number: " + secretNumber);
+                System.out.println("Success!! You guessed the secret number: " + secretNumber);
                 break;
             }
             else {
