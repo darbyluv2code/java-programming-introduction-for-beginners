@@ -15,8 +15,8 @@ public class WordQuestDemov2 {
         String secretWord = getRandomWord(fileName);
 
         // NOTE: only for testing purposes
-        System.out.println("TESTING ONLY: secretWord=" + secretWord);
-        System.out.println();
+        // System.out.println("TESTING ONLY: secretWord=" + secretWord);
+        // System.out.println();
 
         int maxAttempts = 10;
 
