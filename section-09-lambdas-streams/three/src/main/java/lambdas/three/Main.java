@@ -30,15 +30,15 @@ boolean result = lessThan100.test(55);
 System.out.println(result);
 
 // and()
-boolean result = lessThan100.and(greaterThan50).test(55);
+result = lessThan100.and(greaterThan50).test(55);
 System.out.println(result); //true
 
 // or()
-boolean result = lessThan100.or(greaterThan50).test(3);
+result = lessThan100.or(greaterThan50).test(3);
 System.out.println(result); //true
 
 // negate()
-boolean result = lessThan100.negate().test(3);
+result = lessThan100.negate().test(3);
 System.out.println(result); //false
 
 }
