@@ -1,6 +1,6 @@
 package oop.enemyversion6;
 
-import static oop.enemyversion5.Enemy.getNumberOfEnemies;
+import static oop.enemyversion6.Enemy.getNumberOfEnemies;
 
 public class Implementation {
 

@@ -6,7 +6,7 @@ import oop.enemyversion9.enemies.individualenemy.Zombie;
 import oop.enemyversion9.heros.Hero;
 import oop.enemyversion9.heros.weapons.Weapon;
 
-import static oop.enemyversion5.Enemy.getNumberOfEnemies;
+import static oop.enemyversion9.enemies.Enemy.getNumberOfEnemies;
 
 public class Implementation {
 

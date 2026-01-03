@@ -71,4 +71,8 @@ public abstract class Enemy implements IEnemy {
 
     public int getId() {return id;}
 
+    public static int getNumberOfEnemies() {
+        return numberOfEnemies;
+    }
+
 }
