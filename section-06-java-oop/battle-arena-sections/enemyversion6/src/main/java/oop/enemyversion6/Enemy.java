@@ -71,4 +71,8 @@ public class Enemy implements IEnemy {
     @Override
     public int getId() {return id;}
 
+    public static int getNumberOfEnemies() {
+        return numberOfEnemies;
+    }
+
 }
