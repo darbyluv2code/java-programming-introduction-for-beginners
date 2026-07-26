@@ -14,10 +14,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -42,10 +42,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -70,10 +70,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -98,10 +98,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -126,10 +126,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -154,10 +154,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -182,10 +182,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -210,10 +210,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -238,10 +238,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -266,10 +266,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -294,10 +294,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -322,10 +322,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -350,10 +350,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -378,10 +378,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 25
+    - name: Set up JDK 26
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '25'
+        java-version: '26'
         distribution: 'temurin'
         cache: 'maven'
 
