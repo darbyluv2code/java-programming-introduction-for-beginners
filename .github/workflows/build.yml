@@ -333,7 +333,7 @@ jobs:
       run: |
         set -e
         echo "Building Section 12: Spring Boot Quick Start"
-        find section-12-spring-boot-3-quick-start -name pom.xml -not -path "*/target/*" | sort | while read pom; do
+        find section-12-spring-boot-4-quick-start -name pom.xml -not -path "*/target/*" | sort | while read pom; do
           echo "Building $(dirname $pom)"
           mvn clean compile -B -q -f "$pom" || {
             echo "Failed to compile $pom"
@@ -361,7 +361,7 @@ jobs:
       run: |
         set -e
         echo "Building Section 13: Spring Boot REST APIs"
-        find section-13-spring-boot-3-rest-apis-quick-start -name pom.xml -not -path "*/target/*" | sort | while read pom; do
+        find section-13-spring-boot-4-rest-apis-quick-start -name pom.xml -not -path "*/target/*" | sort | while read pom; do
           echo "Building $(dirname $pom)"
           mvn clean compile -B -q -f "$pom" || {
             echo "Failed to compile $pom"
@@ -389,7 +389,7 @@ jobs:
       run: |
         set -e
         echo "Building Section 14: Spring Boot MVC"
-        find section-14-spring-boot-3-spring-mvc-quick-start -name pom.xml -not -path "*/target/*" | sort | while read pom; do
+        find section-14-spring-boot-4-spring-mvc-quick-start -name pom.xml -not -path "*/target/*" | sort | while read pom; do
           echo "Building $(dirname $pom)"
           mvn clean compile -B -q -f "$pom" || {
             echo "Failed to compile $pom"
